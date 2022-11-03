@@ -205,6 +205,9 @@ main h1 {
 }
 .seven form {
   justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
 }
 .seven form input[type="email"] {
   background-color: transparent;
